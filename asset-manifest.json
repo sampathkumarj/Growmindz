@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/growmindz/static/css/main.7565a857.css",
+    "main.js": "/growmindz/static/js/main.2096f5f3.js",
+    "static/js/787.30013372.chunk.js": "/growmindz/static/js/787.30013372.chunk.js",
+    "static/media/c1.jpg": "/growmindz/static/media/c1.b18fd4453e8febd47363.jpg",
+    "index.html": "/growmindz/index.html",
+    "main.7565a857.css.map": "/growmindz/static/css/main.7565a857.css.map",
+    "main.2096f5f3.js.map": "/growmindz/static/js/main.2096f5f3.js.map",
+    "787.30013372.chunk.js.map": "/growmindz/static/js/787.30013372.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7565a857.css",
+    "static/js/main.2096f5f3.js"
+  ]
+}
